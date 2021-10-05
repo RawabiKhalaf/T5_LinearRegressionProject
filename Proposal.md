@@ -1,5 +1,8 @@
 # Riyadh Lands Prices Prediction
 ![TLC logo](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igy9JAuHyivI/v1/1000x-1.jpg)
+### By:
+* Rahaf Algahtani
+* Rawabi Alharbi
 
 # Company info
 The Riyadh Real Estate Analysis (RREA) is a company that provides real-estate analytics of all the citie in Riyadh region.
