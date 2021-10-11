@@ -12,10 +12,10 @@ Udemy is an American massive open online course provider aimed at professional a
 Using regression techniques, we will provide information that will help Udemy trainers estimate the rating that their course might have.
 
 # Value to the company
-* Predict the price growth of real estate in Riyadh in the future.
+* Predict course rating according to reviews, price and course duration.
 
 # Data Description
-The data that will be used in this project has been extracted from Udemy website (https://www.udemy.com/courses/search/?src=ukw&q=it+and+software). It includes data such as: (rating, prices, trainers, etc.) for each course. It includes 10 features, and below is the description of each one:
+The data that will be used in this project has been extracted from Udemy website (https://www.udemy.com/courses/it-and-software/). It includes data such as: (rating, prices, trainers, etc.) for each course. It includes 10 features, and below is the description of each one:
 
 
 | Feature               | Description                                                                     |
