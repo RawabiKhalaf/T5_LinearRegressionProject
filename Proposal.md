@@ -1,5 +1,4 @@
-# Riyadh Lands Prices Prediction
-### By:
+# Courses Rating Prediction
 * Rahaf Algahtani
 * Rawabi Alharbi
 
