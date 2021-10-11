@@ -3,31 +3,34 @@
 * Rahaf Algahtani
 * Rawabi Alharbi
 
-![TLC logo](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igy9JAuHyivI/v1/1000x-1.jpg)
+![TLC logo](https://offerage.net/wp-content/uploads/2021/09/new-udemy-1.png)
 
 
 # Company info
-The Riyadh Real Estate Analysis (RREA) is a company that provides real-estate analytics of all the citie in Riyadh region.
+Udemy is an American massive open online course provider aimed at professional adults and students. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.
 
 # Problem statement
-Using Regression techniques, we will provide information that helps both the seller and the buyer to determine the appropriate price of the real-estate, and also to have a perception of their prices in the future.
+Using regression techniques, we will provide information that will help Udemy trainers estimate the rating that their course might have.
 
 # Value to the company
 * Predict the price growth of real estate in Riyadh in the future.
 
 # Data Description
-The data that will be used in this project is retrieved from the ministry of justice website. It includes data about the (lands, houses, apartments, etc.) of each region in Saudi Arabia. It includes 8 features , and the following is the description of each one:
+The data that will be used in this project has been extracted from Udemy website (https://www.udemy.com/courses/search/?src=ukw&q=it+and+software). It includes data such as: (rating, prices, trainers, etc.) for each course. It includes 10 features, and below is the description of each one:
+
 
 | Feature               | Description                                                                     |
 |-----------------------|---------------------------------------------------------------------------------|
-| Neighborhood          |	Defined neighborhoods by region
-| Scheme                |	Number of properties by neighborhood
-| Land                   | Number of real-states per
-| Date                  | Date of sale
-| ID                    | 
-| Price (SR)           	| The price of the land in SAR
-| Area m^2              | The area in square meters
-| Price m^2             | Square meter price
+| Title                 |	Course title
+| Description           |	Description of course content
+| Price                 | The original price
+| Discount              | The price after discount
+| Rating                | The price after discount
+| Reviews              	| The total number of reviews
+| Trainer               | Trainer’s name
+| Total_hours           | Duration of the course
+| Total_lectures        | Number of lectures
+| level                 | Course level
 
 # Tools
 * Technologies: Python, Jupyter notebook, HTML, CSS.
