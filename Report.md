@@ -41,7 +41,6 @@ Our steps in this project was:
 - HTML/CSS
 
 ## Communication
-![image](https://user-images.githubusercontent.com/87195262/137355123-731c8888-ba36-4859-a0b2-004b862c210c.png)
-![image](https://user-images.githubusercontent.com/87195262/137355165-6473d4f0-44cd-4dbf-8c34-3ca3c1a53a8f.png)
-<img width="477" alt="Screen Shot 2021-10-14 at 7 06 09 PM" src="https://user-images.githubusercontent.com/87195262/137355311-470974af-05e5-4807-b69d-06b6da93d840.png">
+In addition to the slides and visuals presented, I will share my work on my Github account
+* https://github.com/RawabiKhalaf/curses-rating-prediction/blob/main/Regression_Project.ipynb
 
