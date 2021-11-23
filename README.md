@@ -6,4 +6,4 @@ SDAIA T5 Data Science Bootcamp Linear Regression Project
 * [MVP](MVP.md)
 * [Final Report](Report.md)
 * [Code](Code.ipynb)
-* [Presentation Slides](Slides.md)
+* [Presentation Slides](Slides.pdf)
