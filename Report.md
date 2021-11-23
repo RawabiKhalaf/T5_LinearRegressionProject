@@ -41,6 +41,6 @@ Our steps in this project was:
 - HTML/CSS
 
 ## Communication
-In addition to the slides and visuals presented, I will share my work on my Github account
-* https://github.com/RawabiKhalaf/curses-rating-prediction/blob/main/Regression_Project.ipynb
+In addition to the slides and visuals presented, we will share our work on our Github accounts
+* https://github.com/RawabiKhalaf/curses-rating-prediction/blob/main/Source_code.ipynb
 
